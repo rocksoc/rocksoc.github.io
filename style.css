@@ -9,7 +9,8 @@ body {
 }
 
 .logo {
-    height: 100%;
+    height: 50px;
+    width: 50px;
 }
 
 .container {
@@ -27,10 +28,12 @@ body {
     height: 50px;
     font-size: 3em;
     color: #FFFFFF;
+    text-align: center;
 }
 
 a {
     text-decoration: none;
+    color: #FFFFFF;
 }
 
 a:hover {
