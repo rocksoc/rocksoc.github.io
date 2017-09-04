@@ -17,6 +17,7 @@ body {
     font-family: "Helvetica", "Verdana", "Sans-Serif";
     width: 50%;
     text-align: center;
+    display: inline-block;
 }
 
 .container ul {
