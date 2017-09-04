@@ -1,0 +1,26 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+#logo {
+    width: 80%;
+}
+
+.container {
+    font-family: "Helvetica", "Verdana", "Sans-Serif";
+    width: 60%;
+    text-align: center;
+}
+
+.container ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: bold;
+}
