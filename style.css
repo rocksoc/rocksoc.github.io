@@ -1,6 +1,7 @@
 body {
     background-color: #000000;
     color: #FFFFFF;
+    text-align: center;
 }
 
 #banner {
@@ -23,8 +24,9 @@ body {
 }
 
 .container ul li {
-    height: 100px;
-    font-size: 6em;
+    height: 50px;
+    font-size: 3em;
+    color: #FFFFFF;
 }
 
 a {
